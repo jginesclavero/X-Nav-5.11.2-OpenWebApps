@@ -1,0 +1,16 @@
+{
+     "name": "Leaftlet",
+     "description": "Primera app",
+     "launch_path": "/index.html",
+     "version": "1.0",
+     "developer": {
+          "name": "Jonathan Gines",
+          "url": "https://github.com/jginesclavero"
+     },
+     "default_locale": "en",
+     "permissions": {
+     	"geolocation": {
+  			"description": "Required to use the geolocation"
+  		}
+  	}
+}
